@@ -2,5 +2,4 @@ Esta es una prueba con git
 
 si quiero puedo colocar varia lineas simulando un codigo
 
-y estos comentarios see me olvidaron
 y ya veras lo que pasa
